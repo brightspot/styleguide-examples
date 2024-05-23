@@ -1,0 +1,3 @@
+This is an example of using the Brightspot Styleguide without Webpack. To run it, you have to populate the `node_modules` by running `yarn` first. Then you can run `yarn serve` to start up the Styleguide server.
+
+This uses [Express](https://expressjs.com/) as the web server, and you can customize that freely based on your use case. Styleguide exposes a middleware, and you can see how that's configured in the [serve.js](./serve.js) file.
