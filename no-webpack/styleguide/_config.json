@@ -1,0 +1,17 @@
+{
+  "navigation": [
+    {
+      "displayName": "Hello",
+      "pages": [
+        {
+          "displayName": "World",
+          "page": "hello/World.json"
+        },
+        {
+          "displayName": "Foo",
+          "page": "hello/Foo.json"
+        }
+      ]
+    }
+  ]
+}
